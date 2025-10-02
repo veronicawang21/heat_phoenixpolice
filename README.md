@@ -10,7 +10,7 @@ Phoenix_PopWieghtPRISM: folder contains temperature files
   \
   SSC_PhoenixPRISMDAILY_LONGvpdmax: Daily maximum vapor pressure deficit averaged across Phoenix city boundaries
   \
-  SSC_PhoenixPRISMDAILY_LONGpvdmin: Daily minimum vapor pressure deficit averaged across Phoenix city boundaries
+  SSC_PhoenixPRISMDAILY_LONGvpdmin: Daily minimum vapor pressure deficit averaged across Phoenix city boundaries
   \
 
 phoenix_grouping.csv: categorization of incident call types (also shown in Supplemental Materials Table S1)
